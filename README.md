@@ -11,7 +11,7 @@
 ###
 
 <div align="left">
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,jQuery,mysql,php,python,bootstrap&perline=8)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,jQuery,mysql,php,python,bootstrap)](https://skillicons.dev)
 </div>
 
 ###
